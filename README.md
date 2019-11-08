@@ -1,2 +1,2 @@
-# azure-terraform-beginners
-Beginners Guide to Terraforming Azure
+# ude first try
+Terraforming Azure
